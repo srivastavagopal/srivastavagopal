@@ -1,5 +1,9 @@
-### Hi there 👋
-
+👋 Hi!, I’m Gopal Srivastava, a Biological Sciences PhD student at LSU
+🔭 I’m currently working on predicting drug pair synergy prediction and cancer susceptibility prediction using graph neural networks
+👀 I’m interested in using data science and machine learning to solve bio relevant problems
+🌱 I’m currently learning cancer genomics and utilizing bioinformatics tools for GWAS data processing
+👯 I’m looking to collaborate on GWAS based machine learning studies
+📫 How to reach me: gnsforthestudy@gmail.com
 <!--
 **srivastavagopal/srivastavagopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
